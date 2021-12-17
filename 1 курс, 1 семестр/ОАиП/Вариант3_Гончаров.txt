@@ -1,0 +1,25 @@
+// 1 задание
+#include <stdio.h>
+#include <math.h>
+
+number = int(input())
+count = 0
+while number != 0
+    if number % 2 == 0
+    count 1+ 1
+printf(number);
+
+
+// 2 задание
+#include <stdio.h>
+
+int main()
+{
+    // 123456 - 6   5   4   3   2   1 
+    char string;
+    int x1,x2,x3,x4,x5,x6;
+    printf("x1: ");
+    scanf("%d" ,string);
+    printf("   " + x1);
+    scanf("\n\n\n%s" ,string);
+}
