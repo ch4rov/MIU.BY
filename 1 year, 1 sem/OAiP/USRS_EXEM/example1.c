@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
    {
-   int F_first, F_second, F_third, N, i;
+   int F_first, F_second, F_third, N, i, ans;
      printf("F1: ");
      scanf("%d", F_first);
      printf("F2: ");
@@ -26,4 +26,6 @@ int main()
          }
          return F_third;
          printf("%d, %d, %d", F_first, F_second, F_third);
+    int ans;
+    ans = f_
    }
